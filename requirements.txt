@@ -1,0 +1,4 @@
+behave == 1.2.5
+selenium == 3.6.0
+should_dsl == 2.1.2
+PyHamcrest == 1.9.0
