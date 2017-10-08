@@ -4,10 +4,10 @@ Instructions below are to test the application using Chrome browser, which needs
 
 ## Prerequisites
 
-### Clone a copy of the entire repository to your local PC.
+### Clone a copy of both repositories to your local PC.
 
 - acceptance-testing-master - the application under test
-- integration_tests folder.
+- this one - the integration_tests folder.
 
 ### Install Python and dependent modules
 
@@ -58,7 +58,8 @@ Suggested next steps:
 - speak with Dev team about adding some page fully loaded indicators (aids testability)
   - implement TODO's marked in code
 - there are some product expected behaviours that would need clarified by PO. (see TODO's in feature files)
-- improve the logging to add timings and functions (i.e. where are we)
+- improve the logging to add timings and function titles (i.e. where are we)
+- structure the utility modules into seperate folder from the .feature files.
 
 ### Trade offs
 
